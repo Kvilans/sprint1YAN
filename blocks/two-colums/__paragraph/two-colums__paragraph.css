@@ -1,0 +1,12 @@
+.two-colums__paragraph {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+
+
+.two-colums__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
+
